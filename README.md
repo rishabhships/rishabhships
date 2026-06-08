@@ -11,6 +11,7 @@ My work sits at the intersection of mobile architecture and revenue:
 I tech-lead an Android team from time-to-time, with size varying on project basis. Earlier at Aon I built CoCubes app (50K+ installs, 4.1★) and the Assessment app (150K+ installs, 4.0★). Started at Samsung R&D on Samsung Pay.
 
 🌐 [rishabhships.com](https://rishabhships.com) — writing about mobile payments architecture and Android DevEx
+
 💼 [LinkedIn](https://linkedin.com/in/rg-rishabh-gupta) · [X / Twitter](https://x.com/rishabhships) · ✉️ rishabh@rishabhships.com
 
 ---
