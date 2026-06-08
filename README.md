@@ -19,37 +19,3 @@ I tech-lead an Android team from time-to-time, with size varying on project basi
 
 Outside Adobe, I take a small number of engagements per quarter — **mobile payments architecture audits** for consumer apps with >100K MAU. 2-week fixed scope, $5K USD. Email me if your subscription stack feels like it has hidden revenue leakage.
 ```
-
----
-
-## How to ship it (3 minutes inside Task 1)
-
-1. After creating your GitHub account `rishabhships`, click the **+** icon top-right → **New repository**
-2. Repository name: **`rishabhships`** (must match your username exactly — this is GitHub's "magic" profile repo)
-3. Description: `My GitHub profile README`
-4. Public: ✅
-5. Check **"Add a README file"**
-6. Click **Create repository**
-7. Click the pencil icon to edit the README.md
-8. Paste the markdown content above (between the ` ```markdown ` fences in this file, NOT the fences themselves)
-9. Commit changes → "Initial profile README"
-
-Visit `https://github.com/rishabhships` — you should see the README rendered as your profile page.
-
----
-
-## Notes
-
-- **Emojis are intentional** but moderate. GitHub profile READMEs are a soft medium where one or two emojis per section is normal and signals approachability. Avoid more than that.
-- **Empty Repositories tab is fine for now.** Your first OSS repo lands in Week 5 (Gradle convention plugin clean-room reimplementation, per `05-consulting-playbook.md`).
-- **No "Add-ons"** like contribution graph, profile views counter, or "most-used languages" widgets. Those are junior signals — senior engineers don't decorate their profile with stat-badges.
-
-## After you have content (Week 5+)
-
-When your first OSS repo is live, edit the README to add a **"Recent Work"** section:
-
-```markdown
-### Recent work
-
-- [`android-feature-module-plugin`](https://github.com/rishabhships/android-feature-module-plugin) — Gradle convention plugin that scaffolds a new Android feature module with Hilt, Retrofit, Room, and Compose defaults. ★ 152
-- [`subscription-state-machine`](https://github.com/rishabhships/subscription-state-machine) — Kotlin library for modeling IAP subscription lifecycle as a finite state machine. ★ 43
