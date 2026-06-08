@@ -8,7 +8,7 @@ My work sits at the intersection of mobile architecture and revenue:
 - 📈 **Growth engineering** — server-driven paywalls, on-device ML personalization, A/B-tested upsell touchpoints. Drove +35% annual subscription retention and +15% FY24 upsell.
 - 🛠️ **Mobile DevEx** — building the automations that let our Android org ship monetization changes weekly: a Figma design linter, a release-cherry-pick + Jira workflow, a weekly executive KPI digest pipeline.
 
-I tech-lead an 8-engineer Android team. Earlier at Aon I built [CoCubes](https://play.google.com/store/apps/details?id=com.cocubes.candidate) (50K+ installs, 4.1★) and the Assessment app (150K+ installs, 4.0★). Started at Samsung R&D on Samsung Pay.
+I tech-lead an 8-engineer Android team. Earlier at Aon I built CoCubes app (50K+ installs, 4.1★) and the Assessment app (150K+ installs, 4.0★). Started at Samsung R&D on Samsung Pay.
 
 🌐 [rishabhships.com](https://rishabhships.com) — writing about mobile payments architecture and Android DevEx
 💼 [LinkedIn](https://linkedin.com/in/rg-rishabh-gupta) · [X / Twitter](https://x.com/rishabhships) · ✉️ rishabh@rishabhships.com
