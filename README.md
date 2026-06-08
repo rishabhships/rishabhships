@@ -19,4 +19,3 @@ I tech-lead an Android team from time-to-time, with size varying on project basi
 ### Selective consulting
 
 Outside Adobe, I take a small number of engagements per quarter — **mobile payments architecture audits** for consumer apps with >100K MAU. 2-week fixed scope, $5K USD. Email me if your subscription stack feels like it has hidden revenue leakage.
-```
