@@ -10,8 +10,21 @@ My work sits at the intersection of mobile architecture and revenue:
 
 Mentoring engineers earlier in their careers is also a meaningful share of what I do day-to-day. Earlier at Aon I built [CoCubes](https://play.google.com/store/apps/details?id=com.cocubes.candidate) (50K+ installs, 4.1★) and the Assessment app (150K+ installs, 4.0★). Started at Samsung R&D on Samsung Pay.
 
-🌐 [rishabhships.com](https://rishabhships.com) — writing about mobile payments architecture and Android DevEx
+---
 
+### Building in public
+
+Some of what I think about subscription architecture I'm putting into open libraries.
+
+🔄 **[renew-kt](https://github.com/rishabhships/renew-kt)** — a deterministic Kotlin state machine for the Google Play Billing subscription lifecycle. 7 canonical states, 11 events, RTDN adapter, 40 unit tests, Apache 2.0. The Play Billing docs answer *"what should happen"* across many pages; this library encodes the answer in one place. *Most recent.*
+
+📝 **[Modeling Google Play Billing subscriptions as a state machine](https://rishabhships.com/blog/subscription-state-machine)** — the thinking behind `renew-kt`. Why subscription state isn't a single source of truth, why grace / hold / paused don't compose, and the small Kotlin library I extracted from doing this at scale.
+
+---
+
+### Reach me
+
+🌐 [rishabhships.com](https://rishabhships.com) — writing about mobile payments architecture and Android DevEx
 💼 [LinkedIn](https://linkedin.com/in/rg-rishabh-gupta) · [X / Twitter](https://x.com/rishabhships) · ✉️ rishabh@rishabhships.com
 
 ---
